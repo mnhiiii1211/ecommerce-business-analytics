@@ -1,0 +1,1 @@
+Đặt các file CSV của Datathon 2026 vào đây: `sales.csv`, `orders.csv`, `order_items.csv`, `customers.csv`, `products.csv`, `promotions.csv`, `returns.csv`, `payments.csv`, `web_traffic.csv`, `inventory.csv`, `geography.csv`.

@@ -1,0 +1,18 @@
+# Dữ liệu cuộc thi (không phân phối lại)
+dataset/*
+!dataset/README.md
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
